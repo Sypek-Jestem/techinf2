@@ -1,0 +1,3 @@
+C:/Users/tojas/Desktop/Technologie informatyczne II/26.05.2025 queue/cmake-build-debug/CMakeFiles/26_05_2025_queue.dir
+C:/Users/tojas/Desktop/Technologie informatyczne II/26.05.2025 queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tojas/Desktop/Technologie informatyczne II/26.05.2025 queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
