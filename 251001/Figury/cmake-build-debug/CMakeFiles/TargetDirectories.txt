@@ -1,0 +1,3 @@
+C:/Users/tojas/Desktop/Braki do repo/Figury/cmake-build-debug/CMakeFiles/untitled51.dir
+C:/Users/tojas/Desktop/Braki do repo/Figury/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tojas/Desktop/Braki do repo/Figury/cmake-build-debug/CMakeFiles/rebuild_cache.dir
